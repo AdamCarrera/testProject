@@ -7,8 +7,11 @@ def function2(x1, x2):
 
 
 # This is a different comment
-def function3(x1):
-    return 5 * x1
+def function3(x2):
+    print('the \n')
+    print('new \n')
+    print('feature!')
+    return 5 * x2
 
 
 # This is another comment, on a different line
