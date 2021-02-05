@@ -7,9 +7,12 @@ def function2(x1, x2):
 
 
 # This is a comment
-def function3(x1):
-    for x in x1:
-        print('hello there {0}'.format(x))
+def function3(x1, x2, x3):
+    return 5 * x1 + x2 + x3
+
+  
+def function4():
+    print('function 4')
 
 
 def main():
